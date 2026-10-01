@@ -24,11 +24,12 @@ from strands import Agent
 #     model_id="us.anthropic.claude-haiku-4-5-20251001-v1:0"  # any Bedrock inference profile
 # )
 
-# Alternative: OpenAI
+# Alternative: OpenAI (key read from the environment, never written in code)
+# import os
 # from strands.models.openai import OpenAIModel
 #
 # model = OpenAIModel(
-#     client_args={"api_key": "your-key"},
+#     client_args={"api_key": os.environ["OPENAI_API_KEY"]},
 #     model_id="gpt-4o"
 # )
 
