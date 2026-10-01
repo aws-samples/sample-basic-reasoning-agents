@@ -2,7 +2,7 @@
 
 The simplest form of agentic AI: a query goes in, the LLM reasons over it, and a response comes back. No tools, no memory, no orchestration.
 
-This sample is the **hands-on** counterpart to the blog post [Building Basic Reasoning Agents with Amazon Bedrock and Strands SDK](Building%20Basic%20Reasoning%20Agents%20with%20Amazon%20Bedrock%20and%20Strands%20SDK.md). This sample covers building an agent with the [Strands Agents SDK](https://strandsagents.com/) and is based off of the [AWS Prescriptive Guidance - Basic Reasoning Agents pattern](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/basic-reasoning-agents.html).
+This sample covers building an agent with the [Strands Agents SDK](https://strandsagents.com/) and is based off of the [AWS Prescriptive Guidance - Basic Reasoning Agents pattern](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/basic-reasoning-agents.html).
 
 ## Table of Contents
 
